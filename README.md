@@ -1,3 +1,5 @@
-GIT CLI Tutorial
+=======
+# GIT TUTORIAL
 
-This line of text is intended to create conflict
+This repository is for a GIT Noroff Tutorial
+>>>>>>> features/readme
