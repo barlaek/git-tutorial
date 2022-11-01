@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/barlaek/git-tutorial.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barlaek/git-tutorial/issues"
+  },
+  "homepage": "https://github.com/barlaek/git-tutorial#readme"
+}
